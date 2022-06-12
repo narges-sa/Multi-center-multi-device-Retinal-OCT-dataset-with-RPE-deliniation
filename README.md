@@ -39,7 +39,7 @@ If you find this work useful, you can refer our work as:
   
   author={Narges Saeedizadeh, Mahnoosh Tajmirriahi, Alireza Haghani, Zahra Amini, Elias Khalili Pour, Hamid Riazi-Esfahani, Kaveh Fadakar, Rahele Kafieh, Hossein Rabbani},
   
-  journal={},
+  journal={IEEE Transactions on Instrumentation & Measurement},
   
   year={2022}
 }
