@@ -32,7 +32,7 @@ Subset I consisted of 1568 images from healthy subjects and patients with multip
 This work is done by Narges Saeedizadeh, Mahnoosh Tajmirriahi, Alireza Haghani, Zahra Amini, Elias Khalili Pour, Hamid Riazi-Esfahani, Kaveh Fadakar, Rahele Kafieh, Hossein Rabbani. 
 
 
-If you find this work useful, you can refer our work as:
+If you find this work or the dataset useful, you can refer our work as:
 
 @article{
   title={A Device-independent, Shape Preserving Retinal Optical Coherence Tomography Image Alignment Method Applying TV-Unet for RPE Layer Detection},
